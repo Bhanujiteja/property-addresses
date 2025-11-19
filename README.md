@@ -16,8 +16,9 @@ This implements a Machine Learning classifier to categorize property addresses i
 2. **Create a virtual environment** (Recommended):
    
 ## python version 
-python --version==3.12
+python --version==3.13
 
 also Implemented Stremlit web interface you can just run :
 streamlit run app.py
-
+or
+you can directly test in P_C.ipynb notebook in the last cell with giving data
